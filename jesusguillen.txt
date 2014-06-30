@@ -1,19 +1,21 @@
 Practica
 
 - Que permisologia tiene los siguientes archivos
-rwxrwx--- 7 7 0  
---------- 
-rw-rw---- 6 6 0
-r-xr-xr-x 5 5 5
----rw-r-x 0 6 5
---x--x--x 1 1 1
+rwxrwx--- 770 
+--------- 000
+rw-rw---- 660
+r-xr-xr-x 555
+---rw-r-x 065
+--x--x--x 111
 
 
 - Ejecuten la búsqueda con grep buscando cunaguaro y guarde la salida en un archivo llamado
 firefox.txt
 
 
+
 -Cuanto pesa tu /home/ y cuanto pesa /etc
+
 
 
 - Se requiere guardar un archivo dentro de la configuración de la memoria del computador dentro
@@ -24,18 +26,24 @@ de un archivo llamado memoria.txt
 
 
 - Como matamos un proceso del computador
+killall nombre_proceso
 
 - Que hace el respectivo comando $cat toto > toto2
 
+
 - Como puedo visualizar las particiones del disco duro
 
+
 - Cree una carpeta con tu nombre 
-mkdir luisarias
+mkdir jesus
 - Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3
- cd luisarias 
-nano
+touch c1.txt
+touch c2.txt
+touch c3.txt 
 - Guardamos en el c1 su nombre completo
+
 - Guardamos el c3 el correo electrónico
+
 - Describa a continuación la función de los siguientes directorios
 
 /bin   
