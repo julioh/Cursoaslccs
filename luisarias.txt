@@ -1,12 +1,12 @@
 Practica
 
 - Que permisologia tiene los siguientes archivos
-rwxrwx--- 7 7 0  
+rwxrwx---  
 --------- 
-rw-rw---- 6 6 0
-r-xr-xr-x 5 5 5
----rw-r-x 0 6 5
---x--x--x 1 1 1
+rw-rw---- 
+r-xr-xr-x 
+---rw-r-x 
+--x--x--x 
 
 
 - Ejecuten la búsqueda con grep buscando cunaguaro y guarde la salida en un archivo llamado
@@ -30,10 +30,7 @@ de un archivo llamado memoria.txt
 - Como puedo visualizar las particiones del disco duro
 
 - Cree una carpeta con tu nombre 
-mkdir luisarias
-- Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3
- cd luisarias 
-nano
+- Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3 
 - Guardamos en el c1 su nombre completo
 - Guardamos el c3 el correo electrónico
 - Describa a continuación la función de los siguientes directorios
