@@ -32,8 +32,8 @@ de un archivo llamado memoria.txt
 - Cree una carpeta con tu nombre 
 mkdir luisarias
 - Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3
- cd luisarias 
-nano
+ touch c1 c2 c3  
+
 - Guardamos en el c1 su nombre completo
 - Guardamos el c3 el correo electrónico
 - Describa a continuación la función de los siguientes directorios
