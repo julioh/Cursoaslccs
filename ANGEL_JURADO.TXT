@@ -1,54 +1,54 @@
 Practica
 
 - Que permisologia tiene los siguientes archivos
-rwxrwx---770  
----------000 
-rw-rw----660 
-r-xr-xr-x 555
----rw-r-x 065 
---x--x--x  111 
+rwxrwx---  770  
+---------  000
+rw-rw----  660
+r-xr-xr-x  531
+---rw-r-x  065
+--x--x--x  111
 
 
 - Ejecuten la búsqueda con grep buscando cunaguaro y guarde la salida en un archivo llamado
 firefox.txt
-ps -aux | grep > firefox.txt
+
+grep | "cunaguaro" >"firefox.txt"
+
 
 -Cuanto pesa tu /home/ y cuanto pesa /etc
-du -sh
+
 
 - Se requiere guardar un archivo dentro de la configuración de la memoria del computador dentro
 de un archivo llamado memoria.txt
-free> memoria.txt
+
 
 -Se requiere guardar toda la configuración de la versión del kernel en un archivo llamado kernel.txt
-uname -a > kernel.txt
+
 
 - Como matamos un proceso del computador
-kill -9  ID
+kill nombre del proceso
 
 - Que hace el respectivo comando $cat toto > toto2
- Pasa los que esta en toto a toto2
+muestra lo que contiene ese archivo y lo guarda con el nombre toto2
 
 - Como puedo visualizar las particiones del disco duro
- fdisk -l
-cfdisk
+df
 
 - Cree una carpeta con tu nombre 
-mkdir julio
 - Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3 
-touch c1 c2 c3
 - Guardamos en el c1 su nombre completo
-echo julio hernandez > c1
 - Guardamos el c3 el correo electrónico
-echo julio.hernandez@delbosquetechnology.com > c3
+
+mkdir Angel_Jurado
+touch c1.txt c2.txt c3.txt
+echo "Angel_Jurado" c1.txt
+echo "rodin.jurado@gmail.com c3.txt
+ 
 - Describa a continuación la función de los siguientes directorios
-
-/bin ejecutables,binarios    
-/home/   home del usuario
-/media   dispositivos extraibles
-/var     datos variables
-/	directorio principal del sistema
-/sbin  archivos fuentes de los binarios
-/boot  arranque. 
-
-
+/bin   guarda los ejecutables del sistema
+/home/ donde se crean los perfiles de usuarios
+/media donde se montan los dispositivos extraibles
+/var   donde se guardan las variables
+/      raiz del sistema de archivos
+/sbin  donde se guardan los binarios del sistema 
+/boot  para el arranque del sistema
