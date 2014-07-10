@@ -1,0 +1,4 @@
+   11  ls
+   12  nano examen.txt 
+   13  nano examen.txt 
+   14  history >history.txt

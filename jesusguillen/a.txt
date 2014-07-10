@@ -1,0 +1,3 @@
+usuario   5430  0.0  0.1  32236  2788 ?        Sl   09:33   0:00 /usr/lib/libreoffice/program/oosplash --writer
+usuario   5454  0.4  2.5 204828 66868 ?        Sl   09:33   0:03 /usr/lib/libreoffice/program/soffice.bin --writer --splash-pipe=5
+root      6340  0.0  0.0   3488   732 pts/1    S+   09:46   0:00 grep --color=auto libreoffi
