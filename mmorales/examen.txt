@@ -1,0 +1,417 @@
+214  chroot chroot/
+  215  cd ..
+  216  chroot chroot/
+  217  cd iso
+  218  chroot chroot/
+  219  lb binary
+  220  qemu -hda prueba.img -cdrom binary.iso -boot d -m 512
+  221  clear
+  222  qemu-launcher
+  223  qemu-launcher
+  224  qemu-launcher
+  225  qemu -hda prueba.img -cdrom binary.iso -boot d -m 512
+  226  qemu-launcher
+  227  qemu search
+  228  chroot chroot/
+  229  c-s-gui
+  230  c-s-gui
+  231  cd /usr/share/canaima-semilla
+  232  ls
+  233  cd profiles/
+  234  ls
+  235  nano popular/
+  236  cd popular
+  237  ls
+  238  nano profile.conf 
+  239  cd ..
+  240  ls
+  241  cp -R primera-base/ /prueba
+  242  ls
+  243  ls
+  244  clear
+  245  cp -R primera-base/ prueba
+  246  ls
+  247  cd prueba
+  248  ls
+  249  nano profile.conf 
+  250  c-s-gui
+  251  ps -aux c-s-gui
+  252  ps -aux |grep c-s-gui
+  253  kill -9 3504
+  254  ps -aux |grep c-s-gui
+  255  kill -9 3508
+  256  kill -9 3706
+  257  ps -aux |grep c-s-gui
+  258  ps -aux |grep c-s-gui
+  259  kill -9 3725
+  260  ps -aux |grep c-s-gui
+  261  c-s-gui
+  262  cd /home7usuario
+  263  cd /home/usuario
+  264  mkdir iso
+  265  cd iso
+  266  aptitude install live-build
+  267  aptitude search live-build
+  268  cp /home/usuario/control/Cursoaslccs/script.sh
+  269  cp /home/usuario/control/Cursoaslccs/script.sh .
+  270  cp /home/usuario/control/Cursoaslccs/script.sh .
+  271  git pull
+  272  cd..
+  273  ls
+  274  cd ..
+  275  ls
+  276  cd control
+  277  ls
+  278  cd Cursoaslccs/
+  279  ls
+  280  git pull
+  281  cp script.sh /home/usuario/iso
+  282  cp scritp.sh /home/usuario/iso
+  283  cd ..
+  284  cd ..
+  285  cd iso
+  286  ls
+  287  cp /home/usuario/control/Cursoaslccs/scritp.sh 
+  288  cp /home/usuario/control/Cursoaslccs/scritp.sh .
+  289  clear
+  290  ls
+  291  nano scritp.sh
+  292  cp /home/usuario/control/Cursoaslccs/scritp.sh .
+  293  nano scritp.sh
+  294  ls
+  295  ./scritp.sh
+  296  chmod 777 scritp.sh 
+  297  clear
+  298  ./scritp.sh
+  299  ls -ls
+  300  ls -la
+  301  lb bootstrap
+  302  lb chroot
+  303  ls
+  304  chroot chroot/
+  305  chroot chroot/
+  306  chroot chroot/
+  307  chroot chroot/
+  308  chroot chroot/
+  309  aptitude search qemu-
+  310  aptitude install qemu-kvm
+  311  aptitude install qemu-kvm-dbg
+  312  aptitude install qemu-launcher
+  313  aptitude search qemu-
+  314  aptitude install qemu-user-static
+  315  nano /etc/apt/sources.list
+  316  ifconfig -a
+  317  dhclean eth0
+  318  chroot chroot/
+  319  qemu-launcher
+  320  qemu-launcher 
+  321  ls
+  322  cd iso
+  323  ls
+  324  cd ..
+  325  ls
+  326  cd respaldoiso4
+  327  ls
+  328  cd ..
+  329  ls
+  330  cp respaldoiso
+  331  cd respaldoiso
+  332  ls
+  333  cd ..
+  334  ls
+  335  cd respaldois04
+  336  ls
+  337  clear
+  338  ls
+  339  cd isos
+  340  ls
+  341  ls
+  342  cd iso
+  343  ls
+  344  wgatr http://150.188.18.131/res.tar
+  345  wget http://150.188.18.131/res.tar
+  346  ls
+  347  tar xzvf res.tar
+  348  tar xvf res.tar
+  349  ls
+  350  cd Respaldo_isos-5/
+  351  ls
+  352  cd ..
+  353  ls
+  354  cd ..
+  355  cd ..
+  356  cd iso
+  357  cd usuario
+  358  cd iso
+  359  ls
+  360  cp res.tar /home/usuario
+  361  cd ..
+  362  mkdir isos
+  363  ls
+  364  cp res.tar /home/usuario/isos
+  365  cd isos
+  366  ls
+  367  tar -xvf res.tar
+  368  ls
+  369  mkdir iso1
+  370  cp Respaldo_isos-5/ /home/usuario/isos/iso1
+  371  cp -R Respaldo_isos-5/ /home/usuario/isos/iso1
+  372  ls
+  373  cd iso1
+  374  ls
+  375  ls
+  376  chroot chroot/
+  377  chroot chroot
+  378  chroot chroot
+  379  clear
+  380  chroot chroot/
+  381  ls
+  382  cd Respaldo_isos-5/
+  383  ls
+  384  chroot chroot/
+  385  touch log.txt
+  386  ls
+  387  nano log.txt
+  388  cd config
+  389  ls
+  390  nano bootstrap 
+  391  nano chroot 
+  392  nano binary 
+  393  nano bootstrap 
+  394  cd ..
+  395  chroot chroot
+  396  ls
+  397  nano log.txt
+  398  cd ..
+  399  ls
+  400  cd ..
+  401  cp -R iso1 iso2
+  402  cd iso2
+  403  ls
+  404  cd ..
+  405  ls
+  406  cd iso1
+  407  ls
+  408  cd Respaldo_isos-5/
+  409  ls
+  410  lb binary
+  411  nano /etc/apt/sources.list
+  412  aptitude update
+  413  ls
+  414  lb binary
+  415  lb binary_iso}
+  416  nano /etc/apt/sources.list
+  417  aptitude update
+  418  cd config
+  419  nano bootstrap 
+  420  cd ..
+  421  ls
+  422  cd ..
+  423  ls
+  424  ls
+  425  rmdir iso1
+  426  rm -rf iso1
+  427  ls
+  428  cd ..
+  429  ls
+  430  cp -R iso2 /iso1
+  431  cd iso1
+  432  ls
+  433  cd Respaldo_isos-5/
+  434  ls
+  435  cd config
+  436  ls
+  437  nano bootstrap 
+  438  cd ..
+  439  lb binary
+  440  ls
+  441  lb binary_iso
+  442  cd ..
+  443  ls
+  444  cd ..
+  445  ls
+  446  rmdir iso1
+  447  rmdir -rf iso1
+  448  rm iso1
+  449  rm -dfr /iso1
+  450  rm -fr /iso1
+  451  ls
+  452  cd iso1
+  453  ls
+  454  cd Respaldo_isos-5/
+  455  ls
+  456  cd ..
+  457  cd ..
+  458  rm -fr /iso1
+  459  ls
+  460  cp -R iso2 /iso11
+  461  cd iso11
+  462  ls
+  463  ls
+  464  cp -R iso2 /home/usuario/isos/iso11
+  465  ls
+  466  cd iso11
+  467  ls
+  468  cd Respaldo_isos-5/
+  469  cd config
+  470  nano bootstrap 
+  471  gedit bootstrap 
+  472  gedit bootstrap 
+  473  ls
+  474  gedit bootstrap 
+  475  cp bootstrap /home/usuario
+  476  nano bootstrap
+  477  clear
+  478  cd ..
+  479  lb binary
+  480  ls
+  481  du -dh binary.iso
+  482  du
+  483  du  -sh binary.iso
+  484  ls
+  485  qemu -cdrom binary.iso -boot d -m 1024
+  486  cd config
+  487  ls
+  488  cd includes.chroot/
+  489  ls
+  490  cd ..
+ 491  ls
+  492  cd ..
+  493  cd ..
+  494  cd ..
+  495  cd iso2
+  496  ls
+  497  cd Respaldo_isos-5/
+  498  ls
+  499  chroot chroot
+  500  cd /opt/Cursoaslccs/mmorales/
+  501  touch  examen6860174
+  502  touch  examen6860174.txt
+  503  echo "6860174" examen6860174.txt
+  504  nano examen6860174
+  505  nano examen6860174.txt
+  506  ls
+  507  nano examen6860174.txt
+  508  echo "6860174" examen6860174.txt
+  509  echo "6860174" > examen6860174.txt
+  510  nano examen6860174.txt
+  511* echo "mmorales@presidencia.gob.ve" > examen.txt
+  512  nano examen6860174.txt
+  513  echo "6860174 Manuel Morales mmorales@presidenci.gob.ve MPPDP" > examen6860174.txt
+  514  nano examen6860174.txt
+  515  touch curso1.txt
+  516  chmod 641 curso1.
+  517  chmod +641 curso1.
+  518  chmod 
+  519  chmod help
+  520  chmod --help
+  521  chmod 641 curso1.txt
+  522  ls
+  523  touch curso2.txt
+  524  chmod 726 curso2.txt
+  525  touch curso3.txt
+  526  chmod 111 curso3.txt
+  527  touch curso4.txt
+  528  chmod 227 curso4.txt
+  529  touch curso5.txt
+  530  chmod 64 curso5.txt
+  531  fdsk -l
+  532  fdisk -l
+  533  echo fdisk -l ver particiones del disco duro
+  534  echo kill -9 nro proceso id
+  535  echo kill -9 nro proceso id matar el proceso de un computador
+  536  mkdir libreofficewriter
+  537  Ps -aux ! Grep libreofficewriter > a.txt
+  538  Ps -aux | Grep libreofficewriter > a.txt
+  539  ps -aux | Grep libreofficewriter > a.txt
+  540  ps -aux |Grep libreofficewriter > a.txt
+  541  ps aux |Grep libreofficewriter > a.txt
+  542  ps aux | grep libreofficewriter > a.txt
+  543  nano a.txt
+  544  mkdir procesador
+  545   cat /proc/cpuinfo
+  546   cat /proc/cpuinfo >procesador.txt
+  547  nano procesador.txt
+  548  nano /etc/network/interfaces
+  549  echo configurar interface de red con dhcp
+  550  nano /etc/network/interfaces
+  551  echo al ejecutar el comando touch registro creo un archivo llamado registro
+  552  more examen
+  553  more cp
+  554  clear
+  555  echo el comando more examen despliega el contenido del archivo examen una pantalla a la vez
+  556  echo crear carpeta sl
+  557  mkdir sl
+  558  cd sl
+  559  apt-get source sl
+  560  nano /etc/apt/sources.list
+  561  echo debo modificar en sources.list descomentar deb-src http://paquetes.canaima.softwarelibre.gob.ve/ kerepakupai main aportes $ 
+  562  echo para poder bajarme el source de sl
+  563  aptitude update
+  564  apt-get source sl
+  565  ls
+  566  cd sl-3.03/
+  567  ls
+  568  ls
+  569  nano sl.txt
+  570  ls
+  571  nano sl.c
+  572  ls
+  573  nano sl.txt
+  574  dpkg-buildpackage -us -uc sl
+  575  dpkg-buildpackage -us -uc 
+  576  ls
+  577  ls
+  578  dpkg-buildpackage 
+  579  dpkg-source --commit
+  580  dpkg-buildpackage 
+  581  ls
+  582  cd ..
+  583  ls
+  584  echo se genero un.deb moficado que procedo a instalar
+  585  aptitude install sl_3.03-17_i386.deb
+  586  ls
+  587  apt-get install sl_3.03-17_i386.deb
+  588  echo es con dpkg -i
+  589  dpkg -i sl_3.03-17_i386.deb
+  590  echo la costumbre del gdebi
+  591  sl
+  592  ls
+  593  ./sl
+  594  clear
+  595  aptitude search sl
+  596  sl
+  597  sl
+  598  clear
+  599  echo comando para listar redes inalambricas
+  600  iwlist
+  601  iwlist scan
+  602  iwlist
+  603  iwlist interface scan
+  604  echo agrega usuario
+  605  adduser usuario
+  606  echo cambio la clave de usuario
+  607  passwd usuario
+  608  cd ..
+  609  echo hacer un repositorio con debmirror
+  610  debmirror --host=ftp.debian.org --root=debian --cleanup --nosource --progress --ignore-release-gpg --arch=i386 --dist=stable --method=http --section=main /home/usuario/debian
+  611  echo en este caso anterior me estoy bajando el repositorio
+  612  echo claro antes debo tener instalado apache2 debmirror y apt-mirror
+  613  history
+  614  history >texto.txt
+
+los repositorios debian se modifican en /etc/apt/sources.list
+
+18- donde se modifican los repositorios en debian,
+   - cuales son los pasos para ejecutar un repositorio nuevo.
+19- Las particiones de un disco fisico se nombran mediante el nombre de disposi$
+número de partición:
+
+las particiones de un disco se nombran sata sda1 sda2 etc, ide hda1 hda
+
+23 matar un proceso usando top se pisa top se pulsa k y se da el pid del proceso
+para matarlo
+
+touch permiso.txt
+chmod 777 permiso.txt
+

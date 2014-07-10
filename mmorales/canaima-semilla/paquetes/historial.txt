@@ -1,0 +1,269 @@
+    1  aptitude install flashplugin-nonfree
+    2  aptitude update
+    3  aptitude install libreoffice base
+    4  cd..
+    5  cd.
+    6  aptitude search gcc
+    7  aptitude search libc
+    8  aptitude search libc6
+    9  aptitude install gcc gdb libc6-dev
+   10  -ll
+   11  ls
+   12  ll
+   13  aptitude search gdb
+   14  aptitude install make
+   15  aptitude install build-essential
+   16  clear
+   17  ls
+   18  exit
+   19  aptitude install gc-doc
+   20  aptitude install gcc-doc
+   21  man gcc
+   22  aptitude install gcc-doc
+   23  man gcc
+   24  exit
+   25  aptitude search ssh
+   26  aptitude install ssh
+   27  aptitude install geany-plugin-gdb
+   28  aptitude install geany-plugin-gdb
+   29  aptitude install geany-plugin-gdb
+   30  aptitude install geany-plugin-gdb
+   31  aptitude install xterminal
+   32  aptitude install xterminal
+   33  aptitude install geany-plugin-gdb
+   34  aptitude install xterm
+   35  aptitude install geany-plugin-gdb
+   36  aptitude install geany-plugin-gdb
+   37  aptitude install geany-plugin-gdb
+   38  aptitude install autoconf libtool intltool valac-0.16
+   39  aptitude install anjuta
+   40  aptitude search anjuta
+   41  aptitude install anjuta-dbg
+   42  aptitude install anjuta-extras
+   43  aptitude search anjuta
+   44  aptitude install autogen autoconf
+   45  aptitude install automake automake1.10 automake1.9
+   46  ls
+   47  eject 
+   48  eject -t
+   49  ls /home/usuario/exit
+   50  exit
+   51  ls
+   52  cd
+   53  cd /
+   54  ls
+   55  cd /home/
+   56  ls
+   57  cd usuario/
+   58  ls
+   59  ls Escritorio/
+   60  ls
+   61  ls Escritorio
+   62  ls MI_PROGRAMA/
+   63  ls Descargas/
+   64  ls Música/
+   65  ls ernesto/
+   66  exit
+   67  gcc Ejercicio3.c -o Ejercicio3
+   68  gcc Ejercicio3.c -o Ejercicio3
+   69  gcc Ejercicio3.c -o Ejercicio3
+   70  ls
+   71  cd documentos
+   72  cd Documentos
+   73  cd msalinas
+   74  gcc Ejercicio3.c -o Ejercicio3
+   75  gcc Ejercicio3.c -o Ejercicio3
+   76  gcc Ejercicio3.c -o Ejercicio3
+   77  gcc Ejercicio3.c -o Ejercicio3
+   78  gcc Ejercicio3.c -o Ejercicio3
+   79  ./Ejercicio3
+   80  gcc Ejercicio3.c -o Ejercicio3
+   81  gcc Ejercicio3.c -o Ejercicio3
+   82  ./Ejercicio3
+   83  gcc Ejercicio3.c -o Ejercicio3
+   84  ./Ejercicio3
+   85  gcc Ejercicio3.c -o Ejercicio3
+   86  ./Ejercicio3
+   87  nano /etc/resolv.conf 
+   88  aptitude search git
+   89  aptitude install git
+   90  aptitude search git
+   91  tail f /var/log
+   92  tail f
+   93  clear
+   94  tail f /var/log/syslog
+   95  exit
+   96  touch uno.txt
+   97  ls -la
+   98  chown usuario1.usuario1 uno.txt 
+   99  chown usuario.usuario uno.txt 
+  100  ls -la
+  101  chown usuario.root uno.txt 
+  102  ls -la
+  103  exit
+  104  fdisk
+  105  fdisk -l
+  106  df
+  107  fdisk -l
+  108  fdisk -l
+  109  sfdisk
+  110  cfdisk
+  111  cfdisk
+  112  exit
+  113  aptitude install nss-update locate
+  114  aptitude install nss-updatedb 
+  115  updatedb
+  116  locate *.txt
+  117  cd /home/usuario
+  118  clear
+  119  touch canaima.txt
+  120  locate *.txt
+  121  locate *.txt
+  122  locate *.txt
+  123  updatedb
+  124  locate *.txt
+  125  rm canaima.txt
+  126  ls
+  127  locate *.txt
+  128  locate *.txt
+  129  locate canaima.txt
+  130  updatedb
+  131  locate canaima.txt
+  132  cd /etc
+  133  ls
+  134  cd rc.2
+  135  cd r2.d
+  136  ls
+  137  cd rc2.d
+  138  ls
+  139  cd /control
+  140  exit
+  141  ls
+  142  nano /etc/apt/sources.list
+  143  aptitude update
+  144  nano /etc/apt/sources.list
+  145  aptitude update
+  146  aptitude update
+  147  aptitude update
+  148  nano /etc/apt/sources.list
+  149  aptitude update
+  150  nano /etc/apt/sources.list
+  151  aptitude update
+  152  nano /etc/apt/sources.list
+  153  nano /etc/apt/sources.list
+  154  aptitude update
+  155  nano /etc/apt/sources.list
+  156  aptitude update
+  157  nano /etc/apt/sources.list
+  158  nano /etc/apt/sources.list
+  159  aptitude update
+  160  pwd
+  161  mkdir paquetes
+  162  cd paquetes
+  163  apt-get source sl
+  164  ls
+  165  aptitude install sl
+  166  ls
+  167  aptitude install build-essential dpkg-dev
+  168  dpkg-buildpackage 
+  169  clear
+  170  aptitude remove --purge sl
+  171  ls
+  172  aptitude search perl
+  173  aptitude show sl
+  174  aptitude search bb
+  175  aptitude search bb >texto.txt
+  176* 
+  177  aptitude install bb
+  178  dpkg -l
+  179  dpkg -l >lista1.txt
+  180  nano lista1.txt 
+  181  bb
+  182  aptitude install bb
+  183  apt-get source bb
+  184  ls
+  185  cd bb-1.3rc1/
+  186  ls
+  187   cd..
+  188  ls
+  189  cd..
+  190  ls
+  191  cd ..
+  192  ls
+  193  cd bb-1.3rc1/
+  194  ls
+  195  nano credits.c
+  196  nano scene1.c
+  197  nano scene2.c 
+  198  nano scene3.c 
+  199  nano scene9.c 
+  200  cd ..
+  201  apt-get source sl
+  202  ls
+  203  nano sl.h
+  204  cd sl-3.03/
+  205  nano sl.h
+  206  dpkg-buildpackage -us -uc
+  207  apt-get install cdbs
+  208  apt-get install debhelper 
+  209  apt-get install libncurses5-dev
+  210  dpkg-buildpackage -us -uc
+  211  dpkg-source--comit
+  212  dpkg-source--comit
+  213  dpkg-source--commit
+  214  dpkg-source --commit
+  215  dpkg-source --commit
+  216  dpkg-source --commit
+  217  dpkg-source --commit
+  218  dpkg-buildpackage -us -uc
+  219  cd ..
+  220  ls
+  221  dpkg-i sl_3.03-17_i386.deb
+  222  dpkg-i  sl_3.03-17_i386.deb
+  223  dpkg -i  sl_3.03-17_i386.deb
+  224  clear
+  225  sl -f
+  226  sl -F
+  227  sl -F
+  228  sl-F
+  229  clear
+  230  ls
+  231  cp sl_3.03-17_i386.deb /home/usuario/control
+  232  cp sl_3.03-17_i386.deb /home/usuario/control/Cursoaslccs
+  233  cp sl_3.03-17_i386.deb /home/usuario/control/canaima
+  234  apt-get source bmon
+  235  cd bmon-2.0.1/
+  236  ls
+  237  cd crc
+  238  cd src
+  239  clear
+  240  ls
+  241  nano out_ascii.c 
+  242  nano out_ascii.c 
+  243  nano out_curses.c 
+  244  dpkg-buildpackage -us -uc
+  245  cd ..
+  246  clear
+  247  dpkg-buildpackage -us -uc
+  248  ls
+  249  cd ..
+  250  ls
+  251  dpkg -i bmon_2.0.1-3_i386.deb 
+  252  bmon
+  253  ls
+  254  dpkg -i bmon_2.0.1-3_i386.deb 
+  255  cp bmon_2.0.1-3_i386.deb /home/usuario/control/canaima
+  256  ls
+  257  ls -l
+  258  ps -aux
+  259  ps aux top
+  260  ps top
+  261  clear
+  262  ps
+  263  ps m
+  264  ps -top
+  265  clear
+  266  history
+  267  clear
+  268  history
+  269  history > historial.txt

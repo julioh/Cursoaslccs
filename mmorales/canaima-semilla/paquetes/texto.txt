@@ -1,0 +1,521 @@
+p   bb                              - ASCII-art demo based on AAlib             
+p   bbdb                            - The Insidious Big Brother Database (email 
+p   bbe                             - sed-like editor for binary files          
+p   bbmail                          - Mail notifier for Blackbox/Fluxbox        
+p   bbpager                         - Pager for the blackbox and fluxbox window 
+p   bbrun                           - A tool for the blackbox/fluxbox window man
+p   bbtime                          - Time tool for the blackbox/fluxbox window 
+p   blobby                          - Volleyball game with blobs                
+p   blobby-data                     - Volleyball game with blobs (data files)   
+p   blobby-server                   - Volleyball game with blobs (server)       
+p   bubblefishymon                  - system load dockapp with a duck           
+p   bubbros                         - multiplayer clone of the famous Bubble Bob
+p   debbugs                         - The bug tracking system based on the activ
+v   debbugs-el                      -                                           
+p   dibbler-client                  - portable DHCPv6 client                    
+p   dibbler-doc                     - documentation for Dibbler                 
+p   dibbler-relay                   - portable DHCPv6 relay                     
+p   dibbler-server                  - portable DHCPv6 server                    
+p   drizzle-plugin-rabbitmq         - RabbitMQ Transaction Log for Drizzle      
+p   ejabberd                        - distributed, fault-tolerant Jabber/XMPP se
+p   ekg2-jabber                     - instant messenger and IRC client for UNIX 
+p   emacs-jabber                    - Jabber client for Emacsen                 
+p   fbb                             - Packet radio mailbox and utilities        
+p   fbbdoc                          - Documentation for fbb, the packet radio ma
+p   fonts-gubbi                     - Gubbi Kannada font                        
+p   frozen-bubble                   - cool game where you pop out the bubbles!  
+p   frozen-bubble-data              - Data files for Frozen-Bubble game         
+p   gnibbles                        - snake game, up to four players            
+p   gnurobbo                        - logic game ported from ATARI XE/XL        
+p   gobby                           - collaborative text editors                
+p   gobby-0.4                       - collaborative text editor                 
+p   gobby-0.4-dbg                   - collaborative text editor - debugging symb
+p   gobby-0.5                       - infinote-based collaborative text editor  
+p   gobby-0.5-dbg                   - infinote-based collaborative text editor -
+p   gobby-infinote                  - infinote-based collaborative text editor (
+v   hobbit                          -                                           
+v   hobbit-client                   -                                           
+p   hobbit-plugins                  - plugins for the Xymon network monitor     
+p   jabber-irc                      - IRC transport for jabber                  
+p   jabber-querybot                 - Modular xmpp/jabber bot                   
+p   jscribble                       - graphical notepad for use with a pen table
+p   kftpgrabber                     - ftp client for KDE                        
+p   libaudio-scrobbler-perl         - perl interface to audioscrobbler.com/last.
+p   libb-hooks-endofscope-perl      - module for executing code after a scope fi
+p   libb-hooks-op-annotation-perl   - module to allow annotation and delegation 
+p   libb-hooks-op-check-entersubfor - Invoke callbacks on construction of enters
+p   libb-hooks-op-check-perl        - Perl wrapper for OP check callbacks       
+p   libb-hooks-op-ppaddr-perl       - C API to hook into Perl opcode execution  
+p   libb-hooks-parser-perl          - module providing an interface to Perl's pa
+p   libb-keywords-perl              - lists of internal perl keywords           
+p   libb-perlreq-perl               - Perl module to determine Perl module depen
+p   libb-utils-perl                 - Perl module assisting with op tree manipul
+v   libbabl-0.0-0-dev               -                                           
+p   libbabl-0.1-0                   - Dynamic, any to any, pixel format conversi
+p   libbabl-0.1-0-dbg               - Dynamic, any to any, pixel format conversi
+p   libbabl-dev                     - Dynamic, any to any, pixel format conversi
+p   libbabl-doc                     - Dynamic, any to any, pixel format conversi
+p   libbackport-util-concurrent-jav - backport of java.util.concurrent to Java 1
+p   libbackport-util-concurrent-jav - backport of java.util.concurrent to Java 1
+p   libball1.4                      - Biochemical Algorithms Library            
+p   libball1.4-data                 - Biochemical Algorithms Library            
+p   libball1.4-dev                  - Header files for the Biochemical Algorithm
+p   libball1.4-doc                  - documentation for the BALL library        
+p   libballview1.4                  - Biochemical Algorithms Library, VIEW frame
+p   libballview1.4-dev              - Header files for the VIEW part of the Bioc
+p   libbam-dev                      - manipulates nucleotide sequence alignments
+p   libbamf-dev                     - Window matching library - development file
+p   libbamf-doc                     - Window matching library - documentation   
+p   libbamf0                        - Window matching library - shared library (
+p   libbamf3-0                      - Window matching library - shared library  
+p   libbamf3-dev                    - Window matching library - development file
+p   libbarby-ruby                   - Transitional package for ruby-barby       
+p   libbarby-ruby-doc               - Transitional package for ruby-barby       
+p   libbarby-ruby1.8                - Transitional package for ruby-barby       
+p   libbarcode-code128-perl         - Perl library to generate CODE 128 bar code
+p   libbarcode-zbar-perl            - bar code scanner and decoder (Perl binding
+p   libbareword-filehandles-perl    - Perl pragma to disable bareword filehandle
+p   libbarry-dev                    - Development files for libbarry            
+p   libbarry18                      - Library for using the BlackBerry handheld 
+p   libbarry18-dbg                  - Library for using the BlackBerry handheld 
+p   libbase-java                    - A general purpose base service library (OO
+p   libbash                         - a tool that enables bash dynamic-like shar
+p   libbash-doc                     - user and developer documentation for libba
+p   libbasicplayer-java             - threaded simple player class based on Java
+p   libbatik-java                   - xml.apache.org SVG Library                
+v   libbatteries-camlp4-dev         -                                           
+p   libbatteries-ocaml-dev          - Batteries included: OCaml development plat
+v   libbatteries-ocaml-dev-mp0t3    -                                           
+p   libbatteries-ocaml-doc          - Batteries included - OCaml development pla
+p   libbcel-java                    - Analyze, create, and manipulate (binary) J
+p   libbcel-java-doc                - Documentation for Byte Code Engineering Li
+p   libbcmail-java                  - Bouncy Castle generators/processors for S/
+p   libbcmail-java-doc              - Documentation for libbcmail-java          
+p   libbcmail-java-gcj              - Bouncy Castle generators/processors for S/
+p   libbcpg-java                    - Bouncy Castle generators/processors for Op
+p   libbcpg-java-doc                - Documentation for libbcpg-java            
+p   libbcpg-java-gcj                - Bouncy Castle generators/processors for Op
+p   libbcprov-java                  - Bouncy Castle Java Cryptographic Service P
+p   libbcprov-java-doc              - Documentation for libbcprov-java          
+p   libbcprov-java-gcj              - Bouncy Castle Java Cryptographic Service P
+p   libbctsp-java                   - Bouncy Castle generators/processors for TS
+p   libbctsp-java-doc               - Documentation for libbctsp-java           
+p   libbctsp-java-gcj               - Bouncy Castle generators/processors for TS
+p   libbdd-dev                      - Binary decision-diagram library (developme
+p   libbdd0c2                       - Binary decision-diagram library (runtime) 
+p   libbeansbinding-java            - Beans Binding API (library)               
+p   libbeansbinding-java-doc        - Beans Binding API (documentation)         
+p   libbeecrypt-dev                 - header files for beecrypt, a library of cr
+v   libbeecrypt6-dev                -                                           
+p   libbeecrypt7                    - open source C library of cryptographic alg
+p   libbenchmark-apps-perl          - simple module to benchmark applications   
+p   libbenchmark-ocaml-dev          - OCaml benchmarking library                
+v   libbenchmark-ocaml-dev-2pzy7    -                                           
+p   libbenchmark-progressbar-perl   - Perl module that displays progress bar dur
+p   libbenchmark-timer-perl         - Benchmarking with statistical confidence  
+p   libbencode-perl                 - Perl module for BitTorrent serialisation f
+p   libberkeleydb-perl              - use Berkeley DB databases from Perl       
+p   libbest-perl                    - fallbackable module loader                
+p   libbetter-appframework-java     - Java Better Swing Application Framework (l
+p   libbetter-appframework-java-doc - Java Better Swing Application Framework (d
+v   libbfb-dev                      -                                           
+p   libbfb0                         - bfb protocol library                      
+p   libbfb0-dev                     - bfb protocol library - development files  
+v   libbfd-dev                      -                                           
+v   libbg-dev                       -                                           
+p   libbg1                          - BG Libraries Collection                   
+p   libbg1-dev                      - BG Libraries Collection (development)     
+p   libbg1-doc                      - BG Libraries Collection (documentation)   
+p   libbiblio-citation-parser-perl  - citation parsing framework                
+p   libbiblio-endnotestyle-perl     - Reference formatting using Endnote-like te
+p   libbiblio-isis-perl             - Perl module which reads ISIS databases    
+p   libbibutils-dev                 - bibliography file converter, development k
+p   libbibutils2                    - bibliography file converter, shared librar
+v   libbigdecimal-ruby              -                                           
+v   libbigdecimal-ruby1.8           -                                           
+p   libbin-prot-camlp4-dev          - type-safe binary serialization for OCaml v
+v   libbin-prot-camlp4-dev-tzmy5    -                                           
+p   libbind-config-parser-perl      - parser for BIND Config files              
+p   libbind-confparser-perl         - Parser class for BIND configuration files 
+p   libbind-dev                     - Static Libraries and Headers used by BIND 
+p   libbind4                        - DNS resolver and message parsing library  
+p   libbind4-dev                    - DNS resolver and message parsing static li
+i A libbind9-80                     - BIND9 Shared Library used by BIND         
+p   libbindex-java                  - OSGi BIndex reader                        
+p   libbinio-dev                    - Binary I/O stream class library (developme
+p   libbinio1ldbl                   - Binary I/O stream class library           
+p   libbiniou-ocaml                 - flexible binary data format in OCaml      
+v   libbiniou-ocaml-03j29           -                                           
+p   libbiniou-ocaml-dev             - flexible binary data format in OCaml      
+v   libbiniou-ocaml-dev-03j29       -                                           
+p   libbio-asn1-entrezgene-perl     - parser for NCBI Entrez Gene and NCBI Seque
+p   libbio-chado-schema-perl        - DBIx::Class layer for the Chado database s
+p   libbio-das-lite-perl            - implementation of the BioDas protocol     
+p   libbio-graphics-perl            - Generate GD images of Bio::Seq objects    
+p   libbio-mage-perl                - Container module for classes in the MAGE p
+p   libbio-mage-utils-perl          - Extra modules for classes in the MAGE pack
+p   libbio-perl-perl                - BioPerl core perl modules                 
+p   libbio-perl-run-perl            - BioPerl wrappers: modules                 
+p   libbio-primerdesigner-perl      - Perl module to design PCR primers using pr
+p   libbio-ruby                     - Transitional package for ruby-bio         
+p   libbio-ruby1.8                  - Transitional package for ruby-bio         
+p   libbio-samtools-perl            - Perl interface to SamTools library for DNA
+p   libbio-scf-perl                 - Perl extension for reading and writting SC
+p   libbio2jack0                    - oss/alsa to jack porting lib - runtime fil
+p   libbio2jack0-dev                - oss/alsa to jack porting lib - development
+p   libbiococoa-dev                 - Bioinformatics framework for GNUstep and C
+p   libbiococoa2                    - Bioinformatics framework for GNUstep and C
+p   libbiojava-java                 - Java API to biological data and applicatio
+p   libbiojava-java-demos           - Example programs for BioJava              
+p   libbiojava-java-doc             - [Biology] Documentation for BioJava       
+p   libbiojava1.7-java              - Java API to biological data and applicatio
+p   libbiojava3-java                - Java API to biological data and applicatio
+p   libbiojava3-java-doc            - [Biology] Documentation for BioJava       
+p   libbiojava3.0-java              - Java API to biological data and applicatio
+p   libbiosig-dev                   - I/O library for biomedical data - developm
+p   libbiosig1                      - I/O library for biomedical data - dynamic 
+p   libbiosig1-dbg                  - I/O library for biomedical data - debug sy
+p   libbisho-common-dev             - Meego web services settings library (devel
+p   libbisho-common0                - Meego web services settings library       
+p   libbisho-common0-dbg            - Meego web services settings library (debug
+p   libbison-dev                    - YACC-compatible parser generator - develop
+p   libbit-vector-minimal-perl      - object-oriented wrapper around vec()      
+p   libbit-vector-perl              - Perl module for bit vectors and more      
+p   libbitmask-dev                  - header files and docs for libbitmask      
+p   libbitmask1                     - supports multi-word bitmask operations    
+p   libbitstream-dev                - access to binary structures such as specif
+p   libbitstring-ocaml              - Erlang-style bitstrings for OCaml (runtime
+p   libbitstring-ocaml-dev          - Erlang-style bitstrings for OCaml (develop
+v   libbitstring-ocaml-dev-foxu5    -                                           
+v   libbitstring-ocaml-foxu5        -                                           
+p   libbjack-ocaml                  - OCaml blocking interface to jack audio con
+v   libbjack-ocaml-1hbn1            -                                           
+p   libbjack-ocaml-dev              - OCaml blocking interface to jack audio con
+v   libbjack-ocaml-dev-1hbn1        -                                           
+p   libblacs-mpi-dev                - Basic Linear Algebra Comm. Subprograms - D
+p   libblacs-mpi1                   - Basic Linear Algebra Comm. Subprograms - S
+v   libblas-3gf.so                  -                                           
+p   libblas-dev                     - Basic Linear Algebra Subroutines 3, static
+p   libblas-doc                     - Basic Linear Algebra Subroutines 3, docume
+p   libblas-test                    - Basic Linear Algebra Subroutines 3, testin
+v   libblas.so                      -                                           
+v   libblas.so.3                    -                                           
+v   libblas.so.3gf                  -                                           
+i A libblas3                        - Basic Linear Algebra Reference implementat
+p   libblas3gf                      - Transitional package for libblas          
+p   libbliss-dev                    - development files to compute graph automor
+p   libbliss1d                      - library to compute graph automorphisms and
+p   libbliss1d-dbg                  - debugging symbols for libbliss1d          
+v   libblitz-dev                    -                                           
+p   libblitz-doc                    - C++ template class library for scientific 
+v   libblitz0                       -                                           
+p   libblitz0-dev                   - C++ template class library for scientific 
+p   libblitz0ldbl                   - C++ template class library for scientific 
+p   libblkid-dev                    - block device id library - headers and stat
+i   libblkid1                       - block device id library                   
+p   libblktapctl0                   - Xen API blktapctl shared library (shared l
+p   libblocksruntime-dev            - Blocks Runtime (development files)        
+p   libblocksruntime0               - Blocks Runtime library                    
+p   libbloom-filter-perl            - Bloom filter implemented in Perl          
+p   libbluecloth-ruby               - Transitional package for ruby-bluecloth   
+p   libbluecloth-ruby1.8            - Transitional package for ruby-bluecloth   
+p   libbluedevil-dev                - development files for libbluedevil        
+p   libbluedevil1                   - Qt wrapper for bluez                      
+p   libbluetooth-dev                - Development files for using the BlueZ Linu
+i A libbluetooth3                   - Library to use the BlueZ Linux Bluetooth s
+p   libbluetooth3-dbg               - Library to use the BlueZ Linux Bluetooth s
+v   libbluetooth3-dev               -                                           
+p   libbluray-bdj                   - Blu-ray Disc Java support library (BD-J li
+p   libbluray-dev                   - Blu-ray disc playback support library (dev
+p   libbluray-doc                   - Blu-ray disc playback support library (doc
+i A libbluray1                      - Blu-ray disc playback support library (sha
+p   libbluray1-dbg                  - Blu-ray disc playback support library (deb
+p   libbml-dev                      - BuzzMachine loader - development files    
+p   libbml0                         - BuzzMachine loader - shared library       
+p   libbobcat-dev                   - headers and documentation for the Bobcat l
+p   libbobcat3                      - run-time (shared) Bobcat library          
+p   libbogl-dev                     - Ben's Own Graphics Library - development f
+p   libbogl0                        - Ben's Own Graphics Library - shared librar
+p   libbognor-regis-0.6-0           - Media daemon and play queue manager librar
+p   libbognor-regis-0.6-0-dbg       - Media daemon and play queue manager librar
+p   libbognor-regis-dev             - Media daemon and play queue manager librar
+i A libbonobo2-0                    - Bonobo CORBA interfaces library           
+p   libbonobo2-bin                  - Bonobo CORBA interfaces library -- support
+i A libbonobo2-common               - Bonobo CORBA interfaces library -- support
+p   libbonobo2-dev                  - Bonobo CORBA interfaces library -- develop
+p   libbonoboui2-0                  - The Bonobo UI library                     
+p   libbonoboui2-common             - The Bonobo UI library -- common files     
+p   libbonoboui2-dev                - The Bonobo UI library - development files 
+p   libboo-cil-dev                  - python-like language and compiler for the 
+p   libboo2.0.9-cil                 - python-like language and compiler for the 
+p   libboolean-perl                 - module providing transparent support for b
+p   libboolstuff-0.1-0              - library for operating on boolean expressio
+p   libboolstuff-0.1-0-dbg          - library for operating on boolean expressio
+p   libboost-all-dev                - Boost C++ Libraries development files (ALL
+p   libboost-chrono-dev             - C++ representation of time duration, time 
+p   libboost-chrono1.49-dev         - C++ representation of time duration, time 
+p   libboost-chrono1.49.0           - C++ representation of time duration, time 
+p   libboost-date-time-dev          - set of date-time libraries based on generi
+p   libboost-date-time1.49-dev      - set of date-time libraries based on generi
+i A libboost-date-time1.49.0        - set of date-time libraries based on generi
+p   libboost-dbg                    - Boost C++ Libraries with debug symbols (de
+p   libboost-dev                    - Boost C++ Libraries development files (def
+p   libboost-doc                    - Boost.org libraries documentation (default
+p   libboost-filesystem-dev         - filesystem operations (portable paths, ite
+p   libboost-filesystem1.49-dev     - filesystem operations (portable paths, ite
+p   libboost-filesystem1.49.0       - filesystem operations (portable paths, ite
+p   libboost-graph-dev              - generic graph components and algorithms in
+p   libboost-graph-parallel-dev     - generic graph components and algorithms in
+p   libboost-graph-parallel1.49-dev - generic graph components and algorithms in
+p   libboost-graph-parallel1.49.0   - generic graph components and algorithms in
+p   libboost-graph1.49-dev          - generic graph components and algorithms in
+p   libboost-graph1.49.0            - generic graph components and algorithms in
+p   libboost-iostreams-dev          - Boost.Iostreams Library development files 
+p   libboost-iostreams1.49-dev      - Boost.Iostreams Library development files 
+i   libboost-iostreams1.49.0        - Boost.Iostreams Library                   
+p   libboost-locale-dev             - C++ facilities for localization (default v
+p   libboost-locale1.49-dev         - C++ facilities for localization           
+p   libboost-locale1.49.0           - C++ facilities for localization           
+p   libboost-math-dev               - Boost.Math Library development files (defa
+p   libboost-math1.49-dev           - Boost.Math Library development files      
+p   libboost-math1.49.0             - Boost.Math Library                        
+p   libboost-mpi-dev                - C++ interface to the Message Passing Inter
+p   libboost-mpi-python-dev         - C++ interface to the Message Passing Inter
+p   libboost-mpi-python1.49-dev     - C++ interface to the Message Passing Inter
+p   libboost-mpi-python1.49.0       - C++ interface to the Message Passing Inter
+p   libboost-mpi1.49-dev            - C++ interface to the Message Passing Inter
+p   libboost-mpi1.49.0              - C++ interface to the Message Passing Inter
+p   libboost-program-options-dev    - program options library for C++ (default v
+p   libboost-program-options1.49-de - program options library for C++           
+p   libboost-program-options1.49.0  - program options library for C++           
+p   libboost-python-dev             - Boost.Python Library development files (de
+p   libboost-python1.49-dev         - Boost.Python Library development files    
+p   libboost-python1.49.0           - Boost.Python Library                      
+p   libboost-random-dev             - Boost Random Number Library (default versi
+p   libboost-random1.49-dev         - Boost Random Number Library               
+p   libboost-random1.49.0           - Boost Random Number Library               
+p   libboost-regex-dev              - regular expression library for C++ (defaul
+p   libboost-regex1.49-dev          - regular expression library for C++        
+p   libboost-regex1.49.0            - regular expression library for C++        
+p   libboost-serialization-dev      - serialization library for C++ (default ver
+p   libboost-serialization1.49-dev  - serialization library for C++             
+p   libboost-serialization1.49.0    - serialization library for C++             
+p   libboost-signals-dev            - managed signals and slots library for C++ 
+p   libboost-signals1.49-dev        - managed signals and slots library for C++ 
+p   libboost-signals1.49.0          - managed signals and slots library for C++ 
+p   libboost-system-dev             - Operating system (e.g. diagnostics support
+p   libboost-system1.49-dev         - Operating system (e.g. diagnostics support
+p   libboost-system1.49.0           - Operating system (e.g. diagnostics support
+p   libboost-test-dev               - components for writing and executing test 
+p   libboost-test1.49-dev           - components for writing and executing test 
+p   libboost-test1.49.0             - components for writing and executing test 
+p   libboost-thread-dev             - portable C++ multi-threading (default vers
+p   libboost-thread1.49-dev         - portable C++ multi-threading              
+p   libboost-thread1.49.0           - portable C++ multi-threading              
+p   libboost-timer-dev              - C++ wall clock and CPU process timers (def
+p   libboost-timer1.49-dev          - C++ wall clock and CPU process timers     
+p   libboost-timer1.49.0            - C++ wall clock and CPU process timers     
+p   libboost-wave-dev               - C99/C++ preprocessor library (default vers
+p   libboost-wave1.49-dev           - C99/C++ preprocessor library              
+p   libboost-wave1.49.0             - C99/C++ preprocessor library              
+p   libboost1.49-all-dev            - Boost C++ Libraries development files (ALL
+p   libboost1.49-dbg                - Boost C++ Libraries with debug symbols    
+p   libboost1.49-dev                - Boost C++ Libraries development files     
+p   libboost1.49-doc                - Boost.org libraries documentation         
+p   libbot-basicbot-perl            - simple irc bot baseclass                  
+p   libbot-training-perl            - text training material for bots           
+p   libbotan-1.10-0                 - multiplatform crypto library              
+p   libbotan1.10-dev                - multiplatform crypto library (development)
+p   libboulder-perl                 - Perl module for hierarchical tag/value str
+p   libbox-dev                      - Boxlib: C++ Block-structured finite differ
+p   libbox2d-dev                    - 2D physics engine - development files     
+p   libbox2d0                       - 2D physics engine                         
+p   libbox2d0-dbg                   - 2D physics engine - debugging symbols     
+p   libbpp-core-dev                 - Bio++ Core library development files.     
+p   libbpp-core2                    - Bio++ Core library.                       
+p   libbpp-phyl-dev                 - Bio++ Phylogenetic library development fil
+p   libbpp-phyl9                    - Bio++ Phylogenetic library.               
+p   libbpp-popgen-dev               - Bio++ Population Genetics library developm
+p   libbpp-popgen6                  - Bio++ Population Genetics library.        
+p   libbpp-qt-dev                   - Bio++ Qt Graphic classes library developme
+p   libbpp-qt1                      - Bio++ Qt Graphic classes library.         
+p   libbpp-raa-dev                  - Bio++ Remote Acnuc Access library developm
+p   libbpp-raa1                     - Bio++ Remote Acnuc Access library.        
+p   libbpp-seq-dev                  - Bio++ Sequence library development files. 
+p   libbpp-seq9                     - Bio++ Sequence library.                   
+p   libbrahe-1.3-3                  - heterogeneous C library of numeric functio
+p   libbrahe-dev                    - heterogeneous C library of numeric functio
+p   libbrailleutils-java            - cross platform library for embossing/conve
+p   libbrailleutils-java-doc        - cross platform library for embossing/conve
+i A libbrasero-media3-1             - CD/DVD burning library for GNOME - runtime
+p   libbrasero-media3-dev           - CD/DVD burning library for GNOME - develop
+p   libbridge-method-injector-java  - Evolve Java classes without breaking compa
+p   libbridge-method-injector-java- - Documentation for Bridge Method Injector  
+p   libbrlapi-dbg                   - braille display access via BRLTTY - shared
+p   libbrlapi-dev                   - Library for communication with BRLTTY - st
+p   libbrlapi-java                  - Java bindings for BrlAPI                  
+p   libbrlapi-jni                   - Java bindings for BrlAPI (native library) 
+i A libbrlapi0.5                    - braille display access via BRLTTY - shared
+p   libbrowser-open-perl            - Perl module to open a browser in a given U
+p   libbs2b-dev                     - Bauer stereophonic-to-binaural DSP library
+p   libbs2b0                        - Bauer stereophonic-to-binaural DSP library
+p   libbsd-arc4random-perl          - CPAN's BSD::arc4random -- Perl bindings fo
+p   libbsd-dev                      - utility functions from BSD systems - devel
+p   libbsd-resource-perl            - BSD process resource limit and priority fu
+i A libbsd0                         - utility functions from BSD systems - share
+p   libbsd0-dbg                     - utility functions from BSD systems - debug
+p   libbse-0.7-4                    - music synthesis and composition framework 
+p   libbse-dev                      - music synthesis and composition framework 
+p   libbsearch-ruby                 - Transitional package for ruby-bsearch     
+p   libbsearch-ruby1.8              - Transitional package for ruby-bsearch     
+p   libbsf-java                     - Bean Scripting Framework to support script
+p   libbsf-java-doc                 - Bean Scripting Framework to support script
+p   libbt                           - transitional package for libbt0           
+p   libbt-dev                       - Blackbox - development library            
+p   libbt0                          - Blackbox - shared library                 
+p   libbtf1.1.0                     - permutation to block triangular form libra
+p   libbtm-java                     - Bitronix JTA Transaction Manager          
+p   libbtparse-dev                  - C library to parse BibTeX files - developm
+p   libbtparse1                     - C library to parse BibTeX files           
+p   libbuffy-dev                    - Base functions for building mailbox summar
+p   libbuffy-perl                   - Perl wrapper for the libbuffy library     
+p   libbuild-helper-maven-plugin-ja - Build Helper Maven Plugin                 
+p   libbuild-helper-maven-plugin-ja - Documentation for Build Helper Maven Plugi
+p   libbuilder-ruby                 - Transitional package for ruby-builder     
+p   libbuilder-ruby1.8              - Transitional package for ruby-builder     
+p   libbuilder-ruby1.9.1            - Transitional package for ruby-builder     
+p   libbulletml-dev                 - C++ library to handle BulletML easily - de
+p   libbulletml0d2                  - C++ library to handle BulletML easily - ru
+p   libbunny-ruby                   - Transitional package for ruby-bunny       
+p   libbunny-ruby-doc               - Transitional package for ruby-bunny       
+p   libbunny-ruby1.8                - Transitional package for ruby-bunny       
+p   libbunny-ruby1.9.1              - Transitional package for ruby-bunny       
+p   libburn-dbg                     - debugging symbols for libburn and cdrskin 
+p   libburn-dev                     - development package for libburn4          
+p   libburn-doc                     - API documentation for libburn library     
+i A libburn4                        - library to provide CD/DVD writing function
+p   libbusiness-creditcard-perl     - Validate/generate credit card checksums/na
+p   libbusiness-edi-perl            - class for generating U.N. EDI interchange 
+p   libbusiness-isbn-data-perl      - data pack for Business::ISBN              
+p   libbusiness-isbn-perl           - Perl library to work with International St
+p   libbusiness-issn-perl           - Perl extension for International Standard 
+p   libbusiness-onlinepayment-autho - AuthorizeNet backend for Business::OnlineP
+p   libbusiness-onlinepayment-ippay - backend for IPPay in Business::OnlinePayme
+p   libbusiness-onlinepayment-opene - ECHO backend module for Business::OnlinePa
+p   libbusiness-onlinepayment-payco - PaymentOne PayConnect backend for Business
+p   libbusiness-onlinepayment-payfl - PayPal Payflow Pro backend for Business::O
+p   libbusiness-onlinepayment-payme - Chase Paymentech backend for Business::Onl
+p   libbusiness-onlinepayment-perl  - Perl extension for online payment processi
+p   libbusiness-onlinepayment-tclin - TrustCommerce backend for Business::Online
+p   libbusiness-onlinepayment-trans - Transaction Central backend module for Bus
+p   libbusiness-onlinepayment-viakl - viaKLIX backend for Business::OnlinePaymen
+p   libbusiness-paypal-api-perl     - module providing access to the PayPal API 
+p   libbusiness-tax-vat-validation- - library for european VAT numbers validatio
+p   libbusiness-us-usps-webtools-pe - Perl module enabling use of USPS Web Tools
+p   libbuzztard-dev                 - Modular music composer - development files
+p   libbuzztard0                    - Modular music composer - shared libraries 
+p   libbytecode-java                - Java bytecode manipulation library        
+p   libbytecode-java-doc            - Documentation for the API of the Java byte
+p   libbytelist-java                - helper library for packaging JRuby        
+i   libbz2-1.0                      - high-quality block-sorting file compressor
+p   libbz2-dev                      - high-quality block-sorting file compressor
+p   libbz2-ocaml                    - OCaml bindings for the bzip2 compression l
+v   libbz2-ocaml-c3yh2              -                                           
+p   libbz2-ocaml-dev                - OCaml bindings for the bzip2 compression l
+v   libbz2-ocaml-dev-c3yh2          -                                           
+p   libbz2-ruby1.8                  - libbz2 bindings for Ruby 1.8              
+p   libdigest-bubblebabble-perl     - perl module to create bubble-babble finger
+p   libextutils-libbuilder-perl     - Perl module to compile standard, self-cont
+v   libghc-cmdargs-dev-0.9.5-bb7f0  -                                           
+v   libghc-cmdargs-prof-0.9.5-bb7f0 -                                           
+v   libghc-dlist-dev-0.5-2bfbb      -                                           
+v   libghc-dlist-prof-0.5-2bfbb     -                                           
+v   libghc-hxt-charproperties-dev-9 -                                           
+v   libghc-hxt-charproperties-prof- -                                           
+v   libghc-mbox-dev-0.1-ebb67       -                                           
+v   libghc-mbox-prof-0.1-ebb67      -                                           
+v   libghc-template-dev-0.2.0.7-bb9 -                                           
+v   libghc-template-prof-0.2.0.7-bb -                                           
+v   libghc-yesod-persistent-dev-1.0 -                                           
+v   libghc-yesod-persistent-prof-1. -                                           
+p   libhtml-scrubber-perl           - Perl extension for scrubbing/sanitizing ht
+p   libjackrabbit-java              - content repository implementation (JCR API
+v   libllvm-2.9-ocaml-dev-1ebb7     -                                           
+p   libmono-messaging-rabbitmq2.0-c - Mono Messaging RabbitMQ library (for CLI 2
+p   libmono-messaging-rabbitmq4.0-c - Mono Messaging RabbitMQ library (for CLI 4
+p   libmono-rabbitmq2.0-cil         - Mono RabbitMQ.Client library (for CLI 2.0)
+p   libmono-rabbitmq4.0-cil         - Mono RabbitMQ.Client library (for CLI 4.0)
+p   libmono-webbrowser2.0-cil       - Mono Web Browser library (for CLI 2.0)    
+p   libmono-webbrowser4.0-cil       - Mono Web Browser library (for CLI 4.0)    
+p   libnet-jabber-bot-perl          - automated Bot creation with safeties      
+p   libnet-jabber-loudmouth-perl    - Perl interface for the loudmouth jabber li
+p   libnet-jabber-perl              - Perl modules for accessing the Jabber prot
+p   libobby-0.4-1                   - Synced document buffers                   
+p   libobby-0.4-1-dbg               - Synced document buffers - debugging symbol
+p   libobby-0.4-dev                 - Synced document buffers - development file
+p   libphp-jabber                   - Object-oriented PHP interface for the Jabb
+p   libpoe-component-jabber-perl    - pOE Component for communicating over Jabbe
+p   librabbitmq-dbg                 - An AMQP client library written in C - Debu
+p   librabbitmq-dev                 - An AMQP client library written in C - Dev 
+p   librabbitmq0                    - An AMQP client library written in C       
+p   librubberband-dev               - an audio time-stretching and pitch-shiftin
+p   librubberband2                  - an audio time-stretching and pitch-shiftin
+p   libtbb-dev                      - parallelism library for C++ - development 
+p   libtbb-doc                      - parallelism library for C++ - documentatio
+p   libtbb2                         - parallelism library for C++ - runtime file
+p   libtbb2-dbg                     - parallelism library for C++ - debugging sy
+p   libwibble-dev                   - Library of various useful C++ code        
+p   licq-plugin-jabber              - Jabber plug-in for Licq                   
+p   mcabber                         - small Jabber (XMPP) console client        
+p   mpdscribble                     - Last.fm reporting client for mpd          
+p   mpdscribble-dbg                 - Last.fm reporting client for mpd - debugge
+p   phpbb3                          - full-featured, skinnable non-threaded web 
+p   phpbb3-l10n                     - additional language files for phpBB       
+p   pyscrabble                      - multiplayer scrabble implementation writte
+p   pyscrabble-common               - multiplayer scrabble implementation - comm
+p   pyscrabble-server               - scrabble implementation written in Python 
+p   pysycache-buttons-beerabbit     - Bee-rabbit images for buttons activities f
+p   python-jabber                   - Python module for the Jabber instant messa
+p   python-jabberbot                - easily write simple Jabber bots           
+p   python-rabbyt                   - sprite library for Python with game develo
+p   python-urlgrabber               - A high-level cross-protocol url-grabber   
+v   python2.3-jabber                -                                           
+v   python2.4-jabber                -                                           
+v   python2.5-urlgrabber            -                                           
+v   python2.6-rabbyt                -                                           
+v   python2.6-urlgrabber            -                                           
+v   python2.7-rabbyt                -                                           
+p   rabbit                          - presentation tool using RD, a simple text 
+p   rabbit-mode                     - Emacs-lisp rabbit-mode for writing RD docu
+p   rabbitmq-server                 - An AMQP server written in Erlang          
+p   rabbitsign                      - application signing system for the TI-73/8
+p   rabbitvcs-cli                   - Command line interface for RabbitVCS      
+p   rabbitvcs-core                  - Easy version control                      
+p   rabbitvcs-gedit                 - Gedit extension for RabbitVCS             
+p   rabbitvcs-nautilus              - Nautilus extension for RabbitVCS          
+p   rubber                          - automated system for building LaTeX docume
+p   rubberband-cli                  - an audio time-stretching and pitch-shiftin
+p   rubberband-ladspa               - a LADSPA plugin for audio pitch-shifting  
+p   rubberband-vamp                 - Vamp plugins using Rubber Band            
+p   scribble                        - Popular crossword game, similar to Scrabbl
+p   scrobble-cli                    - audioscrobbler submitter for rockbox-forma
+p   shibboleth-sp2-schemas          - Federated web single sign-on system (schem
+p   sobby                           - a dedicated server for collaborative editi
+v   spring-lobby                    -                                           
+p   springlobby                     - single/multiplayer lobby for the Spring RT
+p   springlobby-dbg                 - single/multiplayer lobby for the Spring RT
+p   syncbbdb                        - BBDB to PalmOS Pilot Manager conduit      
+v   tabbed                          -                                           
+p   tabble                          - program launcher with tabs for X          
+p   tbb-examples                    - parallelism library for C++ - example file
+i A telepathy-gabble                - Jabber/XMPP connection manager            
+p   telepathy-gabble-dbg            - Jabber/XMPP connection manager (debug symb
+p   tkabber                         - GUI client for XMPP (Jabber) instant messa
+p   tkabber-plugins                 - standard plugins for Tkabber, an XMPP (Jab
+p   vgrabbj                         - grabs an image from a camera and puts it i
+p   vowpal-wabbit                   - fast and scalable online machine learning 
+p   wmbubble                        - system-load meter for Window Maker that fe
+p   wordpress-shibboleth            - Shibboleth plugin for WordPress           
+p   xbubble                         - A nice Puzzle Bubble clone                
+p   xbubble-data                    - Data files for XBubble, a nice Puzzle Bubb
+p   xmms2-scrobbler                 - Audioscrobbler/Last.FM client for XMMS2   
