@@ -1,0 +1,2 @@
+usuario   3779  0.0  0.0  32236  2784 ?        Sl   09:25   0:00 /usr/lib/libreoffice/program/oosplash --writer
+usuario   3798  0.8  2.0 200860 63200 ?        Sl   09:25   0:01 /usr/lib/libreoffice/program/soffice.bin --writer --splash-pipe=5

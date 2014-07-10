@@ -1,0 +1,10 @@
+0.- Se instala canaima-semilla imagemagick y las dependencias 
+1.- Se copia canaima-semilla base desde /usr/share/canaima-semilla en una carpeta especifica
+2.- Se personaliza el script que se tenga donde se encuentre el comando lb config
+3.- Se ejecuta el script (lb config)
+4.- Se ejecuta lb bootstrap
+5.- Se ejecuta lb chroot
+6.- Se entra a la jaula chroot chroot/ y se personaliza 
+7.- Se saca una copia de la carpeta
+8.- Se genera el iso con lb binary 
+9.- Se prueba el iso nuevo con qemu ... qemu -cdrom binary.iso -boot d -m 1014
