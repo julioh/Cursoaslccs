@@ -1,0 +1,114 @@
+    2  touch Examen-20588160
+    3  nano Examen-20588160 
+    4  touch curso1 curso2 curso3 curso4 curso5
+    5  chmod 065 curso1
+    6  chmod 726 curso2
+    7  chmod 111 curso3
+    8  chmod 227 curso4
+    9  chmod 064 curso5
+   10  mkdir libreofficewriter
+   11  ps -aux | grep libreoffce 
+   12  ps -aux | grep offce 
+   13  ps -aux | grep libreoffice 
+   14  kill 3782
+   15  ps -aux | grep libreoffice 
+   16  ps -aux | grep libreoffice > libreofficewriter/a.txt
+   17  cd libreofficewriter/
+   18  ps -aux | grep libreoffice > a.txt
+   19  ls
+   20  nano a.txt 
+   21  cd ..
+   22  ls
+   23  mkdir procesador
+   24  ls
+   25  mkdir sl
+   26  cd sl/
+   27  apt-get source sl
+   28  ls
+   29  cd sl-3.03/
+   30  ls
+   31  nano sl.c
+   32  nano sl.h
+   33  dpkg-buildpackage 
+   34  dpkg-source --commit
+   35  dpkg-buildpackage 
+   36  cd ..
+   37  ls
+   38  dpkg -i sl_3.03-17_i386.deb 
+   39  sl
+   40  history 
+   41  ls
+   42  cd ..
+   43  ls
+   44  history > .txt
+   45  ls
+   46  ls -la
+   47  touch permiso.txt
+   48  ls -la
+   49  chown usuario.root permiso.txt 
+   50  ls -la
+   51  cat permiso.txt 
+   52  ls
+   53  cd /etc/
+   54  ls
+   55  cd ..
+   56  ls
+   57  cd /opt/
+   58  ls
+   59  cd cursoaslccs/
+   60  ls
+   61  cd kennedyperez/
+   62  ls
+   63  cat /proc/cpuinfo 
+   64  ls
+   65  cd procesador/
+   66  cat /proc/cpuinfo procesador.txt
+   67  cat /proc/cpuinfo > procesador.txt
+   68  nano procesador.txt 
+   69  cd ..
+   70  ls
+   71  rm .txt 
+   72  history > .txt
+   73  nano .txt 
+   74  nano .txt 
+   75  ls
+   76  mkdir canaima-semilla
+   77  cp -r /usr/share/canaima-semilla/profiles/primera-base
+   78  cp -r /usr/share/canaima-semilla/profiles/primera-base .
+   79  ls
+   80  cd canaima-semilla/
+   81  ls
+   82  cp -r /usr/share/canaima-semilla/profiles/primera-base .
+   83  ls
+   84  cd primera-base/
+   85  ls
+   86  cd ..
+   87  ls
+   88  cd ..
+   89  ls
+   90  cd canaima-semilla/
+   91  ls
+   92  cd primera-base/
+   93  ls
+   94  cd ..//..
+   95  ls
+   96  rm -r primera-base/
+   97  cd canaima-semilla/primera-base/
+   98  ls
+   99  nano profile.conf 
+  100  g
+  101  g
+  102  ls
+  103  cd ll
+  104  cd ..
+  105  ls
+  106  touch instruciones.txt
+  107  ls
+  108  nano instruciones.txt 
+  109  ls
+  110  cd ..//..
+  111  ls
+  112  cd kennedyperez/
+  113  ls
+  114  rm .txt 
+  115  history > .txt

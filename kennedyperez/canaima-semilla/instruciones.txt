@@ -1,0 +1,14 @@
+paso 1 dirigirnos al directorio
+
+/usr/share/canaima-semilla/profiles/
+
+paso 2
+crear una copia de uno de los perfiles existentes y personalisar el archivo profile.conf
+segun sea la nesecidad
+
+paso 3
+ejecutar el comando  c-s-gui como super usuario
+
+
+paso4
+continuar con la creacion del la distribucion mediante la erramienta grafica 
