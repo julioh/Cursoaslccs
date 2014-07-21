@@ -1,0 +1,6 @@
+lb config
+lb bootstrap	lb build
+lb chroot
+chroot chroot
+lb binary
+lb binary_iso
